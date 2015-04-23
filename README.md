@@ -1,6 +1,6 @@
 # LifeCounter
 
-INFO 498 Android Development | Homework 4
+INFO 498 Android Development | Homework 5
 
 My family enjoys playing Magic:The Gathering over dinner while we are out to eat in restaurants. We need an app to help track each player's "life total" during the game. It needs to run on Froyo.
 
